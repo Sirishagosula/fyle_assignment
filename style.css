@@ -10,7 +10,7 @@
 #header {
     background: #ffffff;
     color: black;
-    padding: 100px 0;
+    padding: 80px 0;
     height: 100vh;
 }
 
@@ -27,7 +27,7 @@
 
 .home-container1 {
     flex-basis: 52%;
-    margin-top: 10%;
+    margin-top: 5%;
     line-height: 1.2;
 
 }
@@ -231,7 +231,7 @@
 /* Services */
 
 #services {
-    margin-top:100px;
+    margin-top:120px;
     background: #fafafa;
     color: black;
     padding: 80px 0;
