@@ -727,7 +727,7 @@
 #services {
     background: #fafafa;
     color: black;
-    padding: 80px 0;
+    padding: 0px 0;
 
 }
 
@@ -823,4 +823,14 @@
         padding: 80px 0; 
     }
 
+}
+@media screen and (max-width: 430px)
+{
+    .about-col-1, .about-col-2, .about-col-3, .about-col-4 {
+        flex-basis: 25%;
+    }
+    #projectImage{
+        width: 350px;
+    }
+  
 }
